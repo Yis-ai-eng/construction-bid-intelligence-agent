@@ -147,7 +147,9 @@ Estas decisiones hicieron que la arquitectura fuera más robusta, portable y fá
 - ✅ Respuestas fundamentadas mediante LLM
 
 ---
+Bid Package (Sample): Contiene ejemplos de documentos de licitación de construcción utilizados para probar el sistema de recuperación de datos de CBIA.
 
+---
 # 👩‍💻 Autora
 
 **Yisdenis Quiroz**
