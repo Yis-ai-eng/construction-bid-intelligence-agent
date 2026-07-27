@@ -42,3 +42,8 @@ El asistente permite realizar preguntas sobre el paquete de licitación y genera
 Mediante el uso de RAG, CBIA reduce el riesgo de respuestas generadas sin fundamento, ya que el modelo utiliza como referencia únicamente la información recuperada desde los documentos cargados.
 
 ---
+## Arquitectura del Sistema
+
+CBIA utiliza una arquitectura basada en **Retrieval-Augmented Generation (RAG)**, combinando procesamiento documental, búsqueda semántica y modelos de lenguaje.
+
+El flujo general del sistema es:
