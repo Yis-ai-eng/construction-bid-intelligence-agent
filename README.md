@@ -276,5 +276,3 @@ Ingeniero Civil | Data Specialist | AI Trainer
 
 Proyecto desarrollado como parte del aprendizaje y aplicación práctica de Inteligencia Artificial Generativa, LangChain y arquitecturas RAG orientadas al sector construcción.
 
-Proyecto desarrollado como parte del aprendizaje y aplicación práctica de Inteligencia Artificial Generativa, LangChain y arquitecturas RAG orientadas al sector construcción.
-
