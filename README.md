@@ -187,12 +187,7 @@ Respuesta requerida What equipment do you own that is available for the Work? (A
 |4| "*Respuesta requerida What equipment will you rent for the proposed Work?" | ITB26-6310-258- Fuel_Bay_Overhead_Canopy_Replacement.pdf | Bid Instructions | 31 |
 "*Respuesta requerida Please attach certificate of status, competency, and/or state registration." ITB26-6310-258 Fuel Bay Overhead Canopy Replacement.pdf | Bid Instructions | 31 | 6 " The BIDDER acknowledges and understands that the information contained in this response shall be relied upon by CITY" (confirmación de la oferta) | ITB26-6310-258 Fuel Bay Overhead C
 |7| "The Criminal Background Screening form is the background screening requirement referenced in the bid documents." | ADDENDUM 3-Fuel_Bay_Overhead_Canopy_Replacement.pdf | Addendum | 1 |
-**Documentos fuente**
-ITB26-6310-25B_-_Fuel_Bay_Overhead_Canopy_Replacement.pdf
-ADDENDUM 3- Fuel_Bay_Overhead_Canopy_Replacement.pdf
-**Páginas**
-31 (ITB Instrucciones de licitación)
-1 (Addendum 3)
+
 **Nivel de confianza**
 **Alto** para los cinco elementos enumerados en las Instrucciones de Licitación (están marcados explícitamente como "Respuesta requerida*").
 **Moderado para el Formulario de Verificación de Antecedentes Penales, ya que se menciona como el requisito referenced, pero no se enumera como un anexo separado en las Instrucciones de Lic
@@ -200,7 +195,12 @@ ADDENDUM 3- Fuel_Bay_Overhead_Canopy_Replacement.pdf
 Todos los elementos enumerados en las Instrucciones de Licitación (página 31) deben ser proporcionados como parte de la respuesta de la oferta; el lenguaje "*Respuesta requerida" indica que El Addendum 3 aclara que el Formulario de Verificación de Antecedentes Penales satisface cualquier requisito de verificación de antecedentes, por lo que también debe ser incluido en la presen
 Si algún otro documento (por ejemplo, el formulario de solicitud de pago, el formulario de licitación) se requiere, se haría referencia a él en los propios Documentos de Licitación; no se menciona)_
 >
-> **Fuente:** _(documento, categoría y página indicados por el agente)_
+> **Documentos fuente**
+ _ITB26-6310-25B_-_Fuel_Bay_Overhead_Canopy_Replacement.pdf
+ADDENDUM 3- Fuel_Bay_Overhead_Canopy_Replacement.pdf
+**Páginas**
+31 (ITB Instrucciones de licitación)
+1 (Addendum 3)_
 
 ---
 
