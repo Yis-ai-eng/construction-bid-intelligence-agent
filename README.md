@@ -202,8 +202,6 @@ Si algún otro documento (por ejemplo, el formulario de solicitud de pago, el fo
 >
 > **Fuente:** _(documento, categoría y página indicados por el agente)_
 
-> ⚠️ Nota para la autora: copia aquí el texto exacto del output guardado en la celda 24 del notebook para que el ejemplo sea trazable y verificable, tal como exige la Trust Policy del proyecto.
-
 ---
 
 # 🔒 Trust Policy
