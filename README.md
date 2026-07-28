@@ -110,7 +110,7 @@ Respuesta basada en evidencia
 
 ## 🖥️ Cómo usar CBIA
 
-1. Abre la aplicación en tu navegador (`[http://localhost:8501](https://construction-bid-intelligence-agent-xnoiopw3hjsehzkbx4j9x9.streamlit.app/)`).
+1. Abre la aplicación en tu navegador (`https://construction-bid-intelligence-agent-xnoiopw3hjsehzkbx4j9x9.streamlit.app/`).
 2. Sube el Bid Package (PDF o CSV) que quieras analizar usando el panel de carga.
 3. Espera a que el sistema procese el documento (clasificación, chunking y creación de embeddings).
 4. Escribe tu pregunta en el cuadro de texto, por ejemplo: "¿Cuál es el presupuesto del proyecto?"
@@ -160,7 +160,7 @@ OPENROUTER_API_KEY=tu_api_key_aquí
 streamlit run app.py
 ```
 
-La aplicación se abrirá automáticamente en tu navegador (por defecto en `[http://localhost:8501](https://construction-bid-intelligence-agent-xnoiopw3hjsehzkbx4j9x9.streamlit.app/)`).
+La aplicación se abrirá automáticamente en tu navegador (por defecto en `https://construction-bid-intelligence-agent-xnoiopw3hjsehzkbx4j9x9.streamlit.app/`).
 
 ---
 
