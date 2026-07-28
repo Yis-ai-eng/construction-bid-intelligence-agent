@@ -272,7 +272,7 @@ Este proyecto fue desarrollado en el marco del programa de becas de **Oracle Clo
 
 **Yisdenis Quiroz**
 
-Ingeniera Civil | Data Specialist | AI Trainer
+Ingeniero Civil | Data Specialist | AI Trainer
 
 Proyecto desarrollado como parte del aprendizaje y aplicación práctica de Inteligencia Artificial Generativa, LangChain y arquitecturas RAG orientadas al sector construcción.
 
