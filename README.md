@@ -105,7 +105,17 @@ LLM + RAG
         ▼
 
 Respuesta basada en evidencia
+
 ```
+
+## 🖥️ Cómo usar CBIA
+
+1. Abre la aplicación en tu navegador (`http://localhost:8501`).
+2. Sube el Bid Package (PDF o CSV) que quieras analizar usando el panel de carga.
+3. Espera a que el sistema procese el documento (clasificación, chunking y creación de embeddings).
+4. Escribe tu pregunta en el cuadro de texto, por ejemplo: "¿Cuál es el presupuesto del proyecto?"
+5. El agente responderá citando el documento, la categoría y la página donde encontró la evidencia.
+6. Si la información no existe en el Bid Package, el agente lo indicará explícitamente en lugar de inventar una respuesta.
 
 ---
 
